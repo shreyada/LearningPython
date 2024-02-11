@@ -1,0 +1,12 @@
+{
+    "name": "ram",
+    "age": 22,
+    "address": "ktm",
+    "skill": [
+        "python",
+        "django",
+        "machine learning"
+    ],
+    "contact": null,
+    "is_active": true
+}
